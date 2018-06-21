@@ -1,0 +1,14 @@
+<html>
+<body>
+<h1> Main Heading </h1>
+<p> This text is the introduction to the rest of the page. If the page is a long one it might be split up into several sub-headings. </p>
+<h2> Sub-Heading </h2> 
+<p> Long articles have sub-headings to help follow structure to being written. </p>
+<h2> Another Sub-Heading </h2> //interesting, noticing that h2 is the same code for the second heading, but it is all dependent on the size of the heading
+<p> Here you can see another sub-heading </p>
+</body> 
+</html>
+
+//the html code <> are called elements: usually made up of two tags
+//1. opening tag - opening to begin
+//2. closing tag - closing tag has an extra forward slash in it.

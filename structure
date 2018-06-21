@@ -1,14 +1,28 @@
 <html>
+  <head>
+    <title> Example Website </title>
+  </head>
 <body>
-<h1> Main Heading </h1>
-<p> This text is the introduction to the rest of the page. If the page is a long one it might be split up into several sub-headings. </p>
-<h2> Sub-Heading </h2> 
-<p> Long articles have sub-headings to help follow structure to being written. </p>
-<h2> Another Sub-Heading </h2> //interesting, noticing that h2 is the same code for the second heading, but it is all dependent on the size of the heading
-<p> Here you can see another sub-heading </p>
+  <h1> Main Heading </h1>
+    <p> This text is the introduction to the rest of the page. If the page is a long one it might be split up into several sub-headings. </p>
+  <h2> Sub-Heading </h2> 
+    <p> Long articles have sub-headings to help follow structure to being written. </p>
+  <h2> Another Sub-Heading </h2> //interesting, noticing that h2 is the same code for the second heading, but it is all dependent on the size of the heading
+    <p> Here you can see another sub-heading </p>
 </body> 
 </html>
+
 
 //the html code <> are called elements: usually made up of two tags
 //1. opening tag - opening to begin
 //2. closing tag - closing tag has an extra forward slash in it.
+// The character in the brackets indicate the tag's purpose and the closing tag has a fowrad slash after the < symbol
+// Before the <body> element, there is the <head> element that contains information about the page. This title is 
+// shown in the top of the browser.
+// <p> </p> - p stands for paragraph, 
+// an element comprises the opening tag and the closing tag and the content lies between them.
+// Attributes are in the opening tag of the element and have a name and a value seperated by an equal sign.
+// < p lang = "en-us"> Paragraph in English </p>
+// The attribute name indicates what kind of extra information you are supplying about the element's content in lowercase.
+// The value is the information for teh attribute in double quotes. 
+// This example indicuates the language used in this element which is US English.
